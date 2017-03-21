@@ -1,0 +1,5 @@
+ insert into input_details (emailid, transactionID,total_amt,no_of_items,trans_date) values ("keerthana.a@students.iiit.ac.in ","6","130","31","2017-03-23");
+
+ insert into input_details (emailid, transactionID,total_amt,no_of_items,trans_date) values ("udaytagore63@gmail.com","7","30","2","2017-03-24");
+
+ insert into input_details (emailid, transactionID,total_amt,no_of_items,trans_date) values ("ramyakeerthana96@gmail.com","8","636","23","2017-03-24");
